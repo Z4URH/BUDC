@@ -1,2 +1,3 @@
 # Bootable USB Device Creator
-# https://www.facebook.com/Z4URH
+
+# 28.08.2018 - BUDC version 1.0 released
