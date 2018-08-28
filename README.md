@@ -1,4 +1,1 @@
-<p>Open budc folder.</p><br/>
-<p>Select open in terminal</p><br/>
-<p>cd budc-1.0</p><br/>
-<p>sudo ./setup</p><br/>
+<p>github üzerinden tar.gz dosyasını indirdikten sonra terminal ekranımızı açıyoruz ve şu komutları veriyoruz.<br/>cd Downloads<br/>tar xf budc-1.0.tar.gz<br/>cd budc.1.0<br/>sudo ./setup<br/>cd<br/>sudo budc -h</p>
